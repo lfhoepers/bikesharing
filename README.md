@@ -12,10 +12,10 @@ This project's main objective is use Pandas to change the "tripduration" column 
 
 **Deliverable 1**
 
-[NYC_Citibike_Challenge.ipynb](https://github.com/lfhoepers/bikesharing/blob/d054a33a6d22a84e606af14db9815fc8b0d45f4e/NYC_Citibike_Challenge.ipynb)
+[NYC_Citibike_Challenge.ipynb](https://github.com/lfhoepers/bikesharing/blob/585b3fe3ae5158053cdde3a02db4b1be765a4f9c/NYC_Citibike_Challenge.ipynb)
 
 
-![image](https://user-images.githubusercontent.com/100812079/171671486-a13eadd1-da1e-40cc-833c-54f6ac777718.png)
+![image](https://user-images.githubusercontent.com/100812079/171702903-cb57264b-2ebb-4036-a826-1a2d78808a29.png)
 
 
 **Deliverable 2**
@@ -24,7 +24,7 @@ This project's main objective is use Pandas to change the "tripduration" column 
 
 [Link](https://public.tableau.com/views/Des-Moines-Bike-Sharing_16541842073020/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![image](https://user-images.githubusercontent.com/100812079/171673326-684d90a9-b6ae-4ef0-88fd-c70f4a1062b7.png)
+![image](https://user-images.githubusercontent.com/100812079/171703063-df2faadf-cdcf-46a2-9c9e-720abf9fcc84.png)
 
 
 - There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender; 
@@ -32,7 +32,7 @@ This project's main objective is use Pandas to change the "tripduration" column 
 [Link](https://public.tableau.com/views/Des-Moines-Bike-Sharing_16541842073020/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-![image](https://user-images.githubusercontent.com/100812079/171676782-4ac9060e-53fa-44e1-af0f-6a6b8a700a59.png)
+![image](https://user-images.githubusercontent.com/100812079/171703162-d467f6f9-598a-4400-b3c8-7983a531a17c.png)
 
 
 - A heatmap is created showing the number of bike trips for each hour of each day of the week;
@@ -81,10 +81,10 @@ On the analyses above we can noticed that around 8 am and 5pm to 6pm are the mos
 On this analyse we can understand that Males normaly are subscribers, female and unknown no.
 
 
-![image](https://user-images.githubusercontent.com/100812079/171687229-0c1e793a-66f4-4818-a772-2cb7262fe50a.png)
+![image](https://user-images.githubusercontent.com/100812079/171703435-3f5cedcd-467a-47e1-868e-2dc3567655bc.png)
 
 
-This analys show us that the users usually can stay 4 to 6 hours with the mike.
+This analys show us that the users usually can stay 4 to 6 min with the bike.
 
 
 ![image](https://user-images.githubusercontent.com/100812079/171687298-3e940496-adcf-4208-bdf7-8f6df354b2db.png)
