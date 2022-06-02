@@ -62,25 +62,54 @@ This project's main objective is use Pandas to change the "tripduration" column 
 
 [Link to the Final Story](https://public.tableau.com/views/Des-Moines-Bike-Sharing_16541842073020/FINALSTORYREPORT?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![image](https://user-images.githubusercontent.com/100812079/171686959-31bc3d83-a536-4588-84bc-6a6d33eb1de8.png)
+
+![image](https://user-images.githubusercontent.com/100812079/171689711-86c24ff8-e612-4024-b01b-39177829e49a.png)
+
+
+**Adicional Visualization 1** The images above we can see that no have more than a half users are male and the most part are subscribers.
+
 
 ![image](https://user-images.githubusercontent.com/100812079/171687005-89064e1f-d80d-447a-b156-5bbb35c5e99b.png)
 
+
+On the analyses above we can noticed that around 8 am and 5pm to 6pm are the most used times on weekdays and sadurday people usually use the services from 9am to 6pm.
+
+
 ![image](https://user-images.githubusercontent.com/100812079/171687040-15becec5-b70b-4480-995c-4758ec56d114.png)
+
+
+On this analyse we can understand that Males normaly are subscribers, female and unknown no.
 
 
 ![image](https://user-images.githubusercontent.com/100812079/171687229-0c1e793a-66f4-4818-a772-2cb7262fe50a.png)
 
 
+This analys show us that the users usually can stay 4 to 6 hours with the mike.
+
+
 ![image](https://user-images.githubusercontent.com/100812079/171687298-3e940496-adcf-4208-bdf7-8f6df354b2db.png)
 
+**Adicional Visualization 2** The last analyses shows that downtown is the most used sharing bikes.
 
 
 
 ## Summary: 
 
+In summary, it is clear that the highest level of customers are men and during business hours. My suggestion is to invest more to try to attract the other genres as much as possible. As well as weekend events to attract families, etc.
+
+My first suggestion of Visualization is to see where the people are not using the services, like the image below.
+
+
+![image](https://user-images.githubusercontent.com/100812079/171694515-e7fb6e32-db22-4fbb-bdac-71a20f1dac6c.png)
+
+
+My second suggestion is the monthly analysis to have better idea of seasonality, etc.
+
 
 I appreciate the opportunity to present this project, I am available for any clarification.
+
+
+
 
 **Luiz Fernando Hoepers**  
 ###### UofT SCS Data Analytics Boot Camp
