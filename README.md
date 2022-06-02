@@ -62,6 +62,20 @@ This project's main objective is use Pandas to change the "tripduration" column 
 
 [Link to the Final Story](https://public.tableau.com/views/Des-Moines-Bike-Sharing_16541842073020/FINALSTORYREPORT?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![image](https://user-images.githubusercontent.com/100812079/171686959-31bc3d83-a536-4588-84bc-6a6d33eb1de8.png)
+
+![image](https://user-images.githubusercontent.com/100812079/171687005-89064e1f-d80d-447a-b156-5bbb35c5e99b.png)
+
+![image](https://user-images.githubusercontent.com/100812079/171687040-15becec5-b70b-4480-995c-4758ec56d114.png)
+
+
+![image](https://user-images.githubusercontent.com/100812079/171687229-0c1e793a-66f4-4818-a772-2cb7262fe50a.png)
+
+
+![image](https://user-images.githubusercontent.com/100812079/171687298-3e940496-adcf-4208-bdf7-8f6df354b2db.png)
+
+
+
 
 ## Summary: 
 
