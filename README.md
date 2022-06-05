@@ -8,6 +8,9 @@ This project's main objective is use Pandas to change the "tripduration" column 
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
+[Link for all Visualizations](https://public.tableau.com/app/profile/luiz.fernando.hoepers/viz/Module14_16544567381490/FINALSTORYREPORT) 
+
+
 ## Results:
 
 **Deliverable 1**
