@@ -25,14 +25,14 @@ This project's main objective is use Pandas to change the "tripduration" column 
 
 - There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour;
 
-[Link](https://public.tableau.com/views/Des-Moines-Bike-Sharing_16541842073020/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 ![image](https://user-images.githubusercontent.com/100812079/171703063-df2faadf-cdcf-46a2-9c9e-720abf9fcc84.png)
 
 
 - There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender; 
 
-[Link](https://public.tableau.com/views/Des-Moines-Bike-Sharing_16541842073020/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 
 ![image](https://user-images.githubusercontent.com/100812079/171703162-d467f6f9-598a-4400-b3c8-7983a531a17c.png)
@@ -40,7 +40,7 @@ This project's main objective is use Pandas to change the "tripduration" column 
 
 - A heatmap is created showing the number of bike trips for each hour of each day of the week;
 
-[Link](https://public.tableau.com/shared/4CKKR2Q4Z?:display_count=n&:origin=viz_share_link)
+
 
 
 ![image](https://user-images.githubusercontent.com/100812079/171675242-1df07453-1fd0-4b4c-a85f-15478f71eb8e.png)
@@ -48,14 +48,14 @@ This project's main objective is use Pandas to change the "tripduration" column 
 
 - A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender;
 
-[Link](https://public.tableau.com/shared/MZPXTBF2P?:display_count=n&:origin=viz_share_link)
+
 
 ![image](https://user-images.githubusercontent.com/100812079/171675366-ce0c73f4-5bfc-492f-ac46-8728cec844fc.png)
 
 
 - A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender;
 
-[Link](https://public.tableau.com/shared/GW9PK9NWM?:display_count=n&:origin=viz_share_link)
+
 
 ![image](https://user-images.githubusercontent.com/100812079/171675569-e06b5cf5-0129-414b-98fb-de90e06b0358.png)
 
@@ -63,7 +63,7 @@ This project's main objective is use Pandas to change the "tripduration" column 
 
 **Deliverable 3**
 
-[Link to the Final Story](https://public.tableau.com/views/Des-Moines-Bike-Sharing_16541842073020/FINALSTORYREPORT?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 
 ![image](https://user-images.githubusercontent.com/100812079/171689711-86c24ff8-e612-4024-b01b-39177829e49a.png)
